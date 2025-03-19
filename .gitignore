@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribuições do Python
+dist/
+build/
+*.egg-info/
+
+# Ambiente Virtual
+venv_credit_risk/
+# Dependências do Python
+Pipfile.lock
+*.egg
+
+# Arquivos de Logs
+*.log
+
+# Arquivos temporários do sistema
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+
+# Outros arquivos que você pode não querer versionar
+*.dat
+*.bak
+*.tmp
