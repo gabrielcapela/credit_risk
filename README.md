@@ -1,7 +1,9 @@
 
-<img width=25% src="https://raw.githubusercontent.com/gabrielcapela/credit_risk/main/images/myself.png" align=right>
+
 
 # **Credit Risk Assessment Project**
+
+<img width=25% src="https://raw.githubusercontent.com/gabrielcapela/credit_risk/main/images/myself.png" align=right>
 
 *by Gabriel Capela*
 
