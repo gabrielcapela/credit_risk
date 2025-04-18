@@ -20,6 +20,6 @@ The ultimate goal is to provide financial institutions with a **data-driven deci
 
 
 
-<<p align="center">
+<p align="center">
 <img width=90% src="https://raw.githubusercontent.com/gabrielcapela/credit_risk/main/images/crisp-dm.jpeg">
 </p>
