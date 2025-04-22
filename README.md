@@ -23,7 +23,7 @@ The ultimate goal is to provide financial institutions with a **data-driven deci
 <img width=90% src="https://raw.githubusercontent.com/gabrielcapela/credit_risk/main/images/crisp-dm.jpeg">
 </p>
 
-[Click here](https://github.com/gabrielcapela/credit_risk/tree/main/notebooks) to see the explanatory notebooks
+[Click here](https://github.com/gabrielcapela/credit_risk/tree/main/notebooks) to see the explanatory notebooks.
 ### Technologies Used
 
 - Python 3.10
